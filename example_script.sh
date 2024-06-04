@@ -6,4 +6,5 @@ for i in ${list}:
 	do
 		echo "${i} is from the file"
 	done
+#added this line on github
 
